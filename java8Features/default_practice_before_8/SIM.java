@@ -1,3 +1,4 @@
+package java8Features.default_practice_before_8;
 interface SIM{
     public abstract void call();
     public abstract void sms();
