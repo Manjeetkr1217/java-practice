@@ -3,7 +3,9 @@ package String;
 public class palindrome {
     public static void main(String[] args) {
         
-        String s = "A man, a plan, a canal: Panama";
+        
+        //String s = "A man, a plan, a canal: Panama";
+        String s ="0P";
         boolean result = checkPalindrome(s);
         System.out.println(result);
     }
