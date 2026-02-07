@@ -1,4 +1,4 @@
-package java8Features.streamAPI.Filter;
+//package java8Features.streamAPI.Filter;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -51,7 +51,7 @@ public class FilterCode1 {
 
             System.out.println();
 
-        // ==========5. filtering and printing even elements ==========
+        // ==========5. filtering and printing odd elements ==========
 
         al.stream()
             .filter(obj -> obj instanceof Integer)
